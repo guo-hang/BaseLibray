@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <!-- 公共 -->
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+
+    <!-- 退出登录 -->
+    <string name="logout">退出登录</string>
+    <string name="logout_confirm">确认退出当前账号？</string>
+</resources>
